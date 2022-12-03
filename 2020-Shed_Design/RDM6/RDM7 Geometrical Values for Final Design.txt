@@ -1,0 +1,144 @@
+
++----------------------------------------+
+| RDM 7.04 (64 bits) - Framed structures |
++----------------------------------------+
+
+User : Yves Debard
+
+Problem identification : C:\Users\MSI\Documents\Micro Project - Preliminary Design of a shed\dunno1
+Date : 18 January 2020
+
+
++------+
+| Data |
++------+
+
+5  Nodes
+4 Beam(s)
+1 Material(s)
+2 Cross section(s)
+2 Support(s)
+2 Loading case(s)
+1 Combination(s) of loading cases
+1 Mode(s) to be found
+
++----------------+
+|  Node(s) [ m ] |
++----------------+
+
+ Node       x         y           Node      x         y
+
+  1       0.000     0.000           2     0.000     8.000
+  3       9.735    11.933           4    19.471     8.000
+  5      19.471     0.000
+
++----------------------+
+|  Beam(s)  [  m , ° ] |
++----------------------+
+
+Beam     Ori -> Ext    Orient    Sect  Mat   Length    Type
+
+   1       1      2   180.0000    11   11     8.000    Rigid - Rigid
+   2       2      3     0.0000    12   11    10.500    Rigid - Rigid
+   3       3      4     0.0000    12   11    10.500    Rigid - Rigid
+   4       4      5     0.0000    11   11     8.000    Rigid - Rigid
+
+Weight of the structure = 47484.891 N (g = 9.81 m/s2)
+
+Gravity center = 9.735   6.134   0.000   m
+
++-------------------+
+|  Cross section(s) |
++-------------------+
+
+Shear deformations are neglected
+
+Cross section 11 :
+
+  Pre-determinated shape [ 102 ]
+  Dimension [ 1 ] = 840.70 mm
+  Dimension [ 2 ] = 292.40 mm
+  Dimension [ 3 ] = 14.70 mm
+  Dimension [ 4 ] = 21.70 mm
+  Dimension [ 5 ] = 20.00 mm
+  Area = 247.538 cm2
+  Moments of inertia : IY = 9067.885 cm4  -  IZ = 280274.163 cm4
+  Saint Venant torsion constant J = 312.913 cm4
+  Warping constant Iw =  = 15084913.789 cm6
+  Shear coefficients : ky = 0.48  kz = 0.45
+
+Cross section 12 :
+
+  Pre-determinated shape [ 102 ]
+  Dimension [ 1 ] = 465.80 mm
+  Dimension [ 2 ] = 155.30 mm
+  Dimension [ 3 ] = 10.50 mm
+  Dimension [ 4 ] = 18.90 mm
+  Dimension [ 5 ] = 12.70 mm
+  Area = 105.028 cm2
+  Moments of inertia : IY = 1184.958 cm4  -  IZ = 36805.703 cm4
+  Saint Venant torsion constant J = 92.281 cm4
+  Warping constant Iw =  = 584870.726 cm6
+  Shear coefficients : ky = 0.45  kz = 0.50
+
+
++--------------+
+|  Material(s) |
++--------------+
+
+Material 11 : Acier
+
+  Young's modulus [MPa] = 210000 MPa
+  Poisson's ratio = 0.30
+  Shear modulus [MPa] = 80769 MPa
+  Mass density [kg/m3] = 7850 kg/m3
+  Thermal expansion coefficient [1/°K] = 1.30E-005 1/K
+
+
++-------------+
+|  Support(s) |
++-------------+
+
+Node 1 : dx = dy = rotz = 0
+Node 5 : dx = dy = rotz = 0
+
+
++---------------------+
+|  Loading case(s)  1 |
++---------------------+
+
+ Distributed load : weigth of the structure (g = 9.81 m/s2)
+
+1 Nodal load(s) [ N , N.m ]
+
+Node 3 : Fx = 0.00  Fy = -5000.00  
+
+2 Vertical uniformly distributed load(s) [ N/m ]
+
+Beam 2 : py = -10300.0  horizontal unit length
+Beam 3 : py = -10300.0  horizontal unit length
+
+
++---------------------+
+|  Loading case(s)  2 |
++---------------------+
+
+1 Nodal load(s) [ N , N.m ]
+
+Node 3 : Fx = 0.00  Fy = -5000.00  
+
+
++----------------------------------+
+|  Combination(s) of loading cases |
++----------------------------------+
+
+ 1 : 1.00 Load1 + 1.00 Load2
+
+
++------------------+
+| Dynamic analysis |
++------------------+
+
+Consistent mass representation
+Tolerance for angular frequencies 1.00E-002
+
