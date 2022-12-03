@@ -1,0 +1,9 @@
+*** MATLAB CODE FOR FINAL PROJECT ***
+*** RETRO-ENGINEERING OF AN FZG TEST RIG WITH LEGOS ***
+*** POWER LOSSES MODELLING ***
+
+To run the analysis program, simply open the Analysis.m file and run.
+No further modifications are needed.
+The results portrayed are that of the 6 experiments done to prove the power 
+losses at play with the Lego Model.
+
