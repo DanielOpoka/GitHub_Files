@@ -7,21 +7,21 @@
  
  ###### MATLAB Projects
  
- - **Kinematics of a Box Pushing Mechanism** (INSA Lyon)
- - **Reverse Engineering of the FZG test rig** (INSA Lyon)
- - **Wing Experimentation and Simulation** (INSA Lyon)
- - **Introduction to Orbital Mechanics** (ISAE-SUPAERO)
- - **Advanced Signal Processing Techniques used for Reverberant Chamber** (ISAE-SUPAERO)
+ - *2019:* **Kinematics of a Box Pushing Mechanism** (INSA Lyon)
+ - *2021:* **Reverse Engineering of the FZG test rig** (INSA Lyon)
+ - *2021:* **Wing Experimentation and Simulation** (INSA Lyon)
+ - *2022:* **Introduction to Orbital Mechanics** (ISAE-SUPAERO)
+ - *2022:* **Advanced Signal Processing Techniques used for Reverberant Chamber** (ISAE-SUPAERO)
  
  ###### MISCELLANEOUS
 
- - **Battleships** (Media Design School)
- - **Kinematics of Helicopter Transmission** (INSA Lyon)
- - **SHED Design using FEA** (INSA Lyon)
+ - *2018:* **Battleships** (Media Design School)
+ - *2020:* **Kinematics of Helicopter Transmission** (INSA Lyon)
+ - *2020:* **SHED Design using FEA** (INSA Lyon)
  
  ###### Python Projects
  
- - **CREME CubeSat Data Exchange** (ISAE-SUPAERO)
+ - *2022:* **CREME CubeSat Data Exchange** (ISAE-SUPAERO)
 
  
  
