@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"302/28";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"SUPPLIER";"SKF";"";
+"MASS";"0.203";"kg";
+"TraceParts.PartNumber";"10-02032017-086586";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Tapered roller bearings, single row, Bore Ø 28 mm, Outside Ø 58 mm";"";
+"TraceParts.InstanceId";"10-02032017-086586F0WI7L9I1SH5XEWF31PFKJSH8";"";
+"TraceParts.PartTitle";"Tapered roller bearings, single row";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SKF:10-02032017-086586";"";
+"TraceParts.PartStatus";"Published";"";

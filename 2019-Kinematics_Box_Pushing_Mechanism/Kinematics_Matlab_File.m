@@ -1,3 +1,13 @@
+
+%% Kinematics of box-pushing mechanism
+
+% Knowing the dimensions of the mechanism, equations describing the
+% angular velocities are developped such as to obtained the speeds found
+% at the end of the mechanism that help in understanding the overall
+% kinematics of the system.
+% This is accomplished by solving the equations using Euler's forward 
+% method as it could be solved by simple linear algebra.
+
 clear; clc; close all;
 
 hold on;
