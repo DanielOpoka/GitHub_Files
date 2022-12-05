@@ -6,15 +6,15 @@
  
  The projects use the following softwares/programming languages: C++, MATLAB, Python, RDM6.
  
- ## MATLAB Project
+ ###### MATLAB Projects
  
- - ** Kinematics of a Box Pushing Mechanism ** (INSA Lyon)
- - ** Reverse Engineering of the FZG test rig ** (INSA Lyon)
+ - * Kinematics of a Box Pushing Mechanism * (INSA Lyon)
+ - * Reverse Engineering of the FZG test rig * (INSA Lyon)
  
- ## Python Projects
+ ###### Python Projects
  
  
- ## C++ Project
+ ###### C++ Project
 
  
  
