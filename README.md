@@ -11,7 +11,7 @@
  - **Reverse Engineering of the FZG test rig** (INSA Lyon)
  - **Wing Experimentation and Simulation** (INSA Lyon)
  - **Introduction to Orbital Mechanics** (ISAE-SUPAERO)
- - **Advanced Signal Processing Techniques** (ISAE-SUPAERO)
+ - **Advanced Signal Processing Techniques used for Reverberant Chamber** (ISAE-SUPAERO)
  
  ###### Python Projects
  
