@@ -7,18 +7,18 @@
  
  ###### MATLAB Projects
  
- - *Kinematics of a Box Pushing Mechanism* (INSA Lyon)
- - *Reverse Engineering of the FZG test rig* (INSA Lyon)
- - *Wing Experimentation and Simulation* (INSA Lyon)
- - *Introduction to Orbital Mechanics* (ISAE-SUPAERO)
- - *Advanced Signal Processing Techniques* (ISAE-SUPAERO)
+ - **Kinematics of a Box Pushing Mechanism** (INSA Lyon)
+ - **Reverse Engineering of the FZG test rig** (INSA Lyon)
+ - **Wing Experimentation and Simulation** (INSA Lyon)
+ - **Introduction to Orbital Mechanics** (ISAE-SUPAERO)
+ - **Advanced Signal Processing Techniques** (ISAE-SUPAERO)
  
  ###### Python Projects
  
- - *CREME CubeSat Data Exchange* (ISAE-SUPAERO)
+ - **CREME CubeSat Data Exchange** (ISAE-SUPAERO)
  
  ###### C++ Project
 
- - *Battleships*
+ - **Battleships** (Media Design School)
  
  
