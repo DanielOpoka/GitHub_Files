@@ -1,0 +1,28 @@
+
+This folder contains the work for the following subjects:
+
+EEP - Estimation of Emitter Position
+	By using inverse filtering (acquiring the transfer function 
+	of the cavity at a certain emitter and receiver position H(f)),
+	the emitter position is estimated using:
+	* Correlation Maximization
+	* Entropy Minimization
+
+MIS - Miscellaneous
+	Practice for become familiar with signal processing, more
+	specfically Fast Fourier Transform.
+
+STA - Statistical Studies
+	The Reverberation Time (time at which any signal within the 
+	reverberant chamber will lose at least 75% of its energy on 
+	average) is calculated through repeated simulations.
+
+	Another study is done on the effects data smoothing such as to
+	determine the number of needed antennas to acquire a similar 
+	enough signal to the original.
+
+TFA - Time Frequency Analysis
+	By using methods such as STFT and the Wigner-Ville Distribution,
+	useful information is extracted from simulated receiver signals
+	r(t)s from a reverberant chamber.
+
