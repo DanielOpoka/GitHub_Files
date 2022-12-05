@@ -3,7 +3,7 @@
  
  Many of these projects were done in a team, thus only the code I made and the final report are included.
  
- The projects use the following softwares/programming languages: C++, MATLAB, Python, RDM6.
+ The projects are categorized according to the software used, which are:
  
  ###### MATLAB Projects
  
@@ -13,12 +13,15 @@
  - **Introduction to Orbital Mechanics** (ISAE-SUPAERO)
  - **Advanced Signal Processing Techniques used for Reverberant Chamber** (ISAE-SUPAERO)
  
+ ###### MISCELLANEOUS
+
+ - **Battleships** (Media Design School)
+ - **Kinematics of Helicopter Transmission** (INSA Lyon)
+ - **SHED Design using FEA** (INSA Lyon)
+ 
  ###### Python Projects
  
  - **CREME CubeSat Data Exchange** (ISAE-SUPAERO)
- 
- ###### C++ Project
 
- - **Battleships** (Media Design School)
  
  
