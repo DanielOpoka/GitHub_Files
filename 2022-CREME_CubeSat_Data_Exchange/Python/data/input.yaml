@@ -1,0 +1,46 @@
+
+EARTH:
+    rad: 6378.14                            # Radius of the Earth [km]                
+    day: 86400                              # Day on Earth [s]
+    # Missing Earth's Magnetic Field (EMF) ...
+    
+spd_lgt: 299792458                          # Speed of Light [m / s]
+
+# Keplerian Orbital Parameters
+ORBIT:
+    asc_node: 00.00                         # Longitude of ascending node [deg]
+    inc: 97.79                              # Inclination [deg]
+    arg_per: 00.00                          # Argument of perigee [deg]
+    ecc: 00.00                              # Eccentricity []
+    sma: 6938.14                            # Semi-major axis [km]
+    tru_ano: 00.00                          # True anomaly [deg] (at time 0 s)
+    per: 96.69                              # Period [min]
+
+# Satellite Geometric Parameters   
+SAT:
+    # Missing the Pointing Perpendicular to EMF ...
+    
+    # Vector from CoG to Origin of Body in Body Reference Frame
+    CgOb_X: +00.00                          # X-coordinate [m]
+    CgOb_Y: +00.00                          # Y-coordinate [m]
+    CgOb_Z: -00.15                          # Z-coordinate [m]   
+
+# Ground Segment
+GSE:
+    lon: 1.444209                           # Longitude [deg]
+    lat: 43.604652                          # Latitude [deg]
+    alt: 130                                # Altitude [m]
+    ele: 10                                 # Elevation angle [deg]
+  
+# Simulation Parameters 
+# (do not use time_tstp less than 0.1 s, data file will be larger than 1/2 GB)
+SIM:
+    int_time: 40609.799                     # Initial time (7th orbit) [s]                
+    end_time: 46411.2                       # Ending time (8th oribt) [s]
+    time_stp: 0.006173                      # Time step (1 t_stp / SP) [s]
+    
+    int_time: 0                             # Initial time [s]                
+    end_time: 86400                         # Ending time (1 day) [s]
+    time_stp: 0.1                           # Time step [s]
+    
+    # Angle parameters ...
